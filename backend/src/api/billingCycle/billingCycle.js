@@ -12,7 +12,7 @@ const debitSchema = new mongoose.Schema({
   status: {
     type: String,
     required: false,
-    uppercase,
+    uppercase: true,
     enum: ["PAGO", "PENDENTE", "AGENDADO"],
   },
 });

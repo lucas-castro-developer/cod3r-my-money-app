@@ -49,7 +49,7 @@ Abaixo, segue imagens do layout construído em dispositivos  `mobile` e `desktop
 
 **Mobile**
 
-<img src="images/my-money-app-mobile.png">
+<img src="images/my-money-app-mobile.PNG">
 
 **Desktop**
 

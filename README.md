@@ -41,9 +41,11 @@
 
 ## Sobre o projeto
 
-O projeto TodoApp é uma lista de tarefas dinâmica onde o usuário pode cadastrar uma nova tarefa, tornar a tarefa como concluída, excluir e pesquisar tarefas já cadastradas.
+O projeto My Money App tem por objetivo ajudar os usuários a organizar sua vida financeira.
 
-Há a opção de voltar o estado da tarefa como não concluída.
+Para isso, possui recursos como adicionar crédito e débito, organizar os recebimentos e as despesas por mês e ano, e dar a possibilidade do usuário clonar lançamentos de crédito e débito para agilizar o preenchimento das informações.
+
+O sistema possui fluxo de login e o dashboard mostra um total de todas as informações inseridas.
 
 Abaixo, segue imagens do layout construído em dispositivos  `mobile` e `desktop`:
 

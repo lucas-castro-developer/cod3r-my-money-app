@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lucas-castro-developer/cod3r-my-money-app">
-    <img src="images/#">
+    <img src="images/my-money-app.png">
   </a>
 
   <h3 align="center">Aplicação financeira - MyMoneyApp</h3>
@@ -49,11 +49,11 @@ Abaixo, segue imagens do layout construído em dispositivos  `mobile` e `desktop
 
 **Mobile**
 
-<img src="images/#">
+<img src="images/my-money-app-mobile.png">
 
 **Desktop**
 
-<img src="images/#">
+<img src="images/my-money-app.png">
 
 ### Construído com
 
